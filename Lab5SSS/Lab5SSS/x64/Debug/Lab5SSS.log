@@ -1,0 +1,4 @@
+﻿  Lab5SSS.cpp
+C:\Users\ASUS TUF GAMING\MVS2022\Lab5\Lab5SSS\Lab5SSS\Lab5SSS.cpp(7,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ASUS TUF GAMING\MVS2022\Lab5\Lab5SSS\Lab5SSS\Lab5SSS.cpp(7,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Lab5SSS.vcxproj -> C:\Users\ASUS TUF GAMING\MVS2022\Lab5\Lab5SSS\x64\Debug\Lab5SSS.exe
